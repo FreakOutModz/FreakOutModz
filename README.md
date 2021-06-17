@@ -2,7 +2,7 @@
 
 [![Freak Out Modz github stats](https://github-readme-stats.vercel.app/api?username=FreakOutModz)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on new ESX PROJECT
+- 🔭 I’m currently working on new ESX PROJECT and some CFX native
 - 🌱 I’m currently learning JavaScript with ESX
 - 👯 I’m looking to collaborate on fiveM
 - 📫 How to reach me: [DISCORD]
